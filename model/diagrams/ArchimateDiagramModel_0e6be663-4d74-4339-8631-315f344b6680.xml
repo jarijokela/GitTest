@@ -1,0 +1,40 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Töttöröö palvelu"
+    id="0e6be663-4d74-4339-8631-315f344b6680">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="88d4e048-ad41-495b-b197-67d2d5c8ec75"
+      targetConnections="7d9108ce-105b-4dbd-bb27-8dcadeddbeea">
+    <bounds
+        x="397"
+        y="177"
+        width="252"
+        height="160"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="f13a066a-d49d-4236-bbef-a0cb37bc149d">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="7d9108ce-105b-4dbd-bb27-8dcadeddbeea"
+          source="f13a066a-d49d-4236-bbef-a0cb37bc149d"
+          target="88d4e048-ad41-495b-b197-67d2d5c8ec75">
+        <archimateRelationship
+            xsi:type="archimate:AssignmentRelationship"
+            href="AssignmentRelationship_7068eb9c-4678-45b6-a09b-4e7ac366f54e.xml#7068eb9c-4678-45b6-a09b-4e7ac366f54e"/>
+      </sourceConnections>
+      <bounds
+          x="50"
+          y="34"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Node"
+          href="Node_7539923a-c50d-4acc-b3ab-72407fe73949.xml#7539923a-c50d-4acc-b3ab-72407fe73949"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:BusinessService"
+        href="BusinessService_ff336445-3294-4205-a074-5346c5eb2787.xml#ff336445-3294-4205-a074-5346c5eb2787"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,11 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OP Term lisenssi"
+    id="8a3d6b02-752c-4ec7-9392-d22e087c841e">
+  <properties
+      key="Hinta"
+      value="500"/>
+  <properties
+      key="T.LU"
+      value="T.LU.XYZ"/>
+</archimate:SystemSoftware>

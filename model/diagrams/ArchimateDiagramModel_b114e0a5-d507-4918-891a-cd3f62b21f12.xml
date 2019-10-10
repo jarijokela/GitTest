@@ -1,0 +1,30 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="J palvelu"
+    id="b114e0a5-d507-4918-891a-cd3f62b21f12">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="17f0bb66-a634-487c-999d-df60d180a33c">
+    <bounds
+        x="192"
+        y="132"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessService"
+        href="BusinessService_ea77b8db-73ee-4b50-a2ac-88816d280ed8.xml#ea77b8db-73ee-4b50-a2ac-88816d280ed8"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="294b8c9e-cd6c-414a-a46d-1a179dc95f97">
+    <bounds
+        x="396"
+        y="132"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessService"
+        href="BusinessService_ff336445-3294-4205-a074-5346c5eb2787.xml#ff336445-3294-4205-a074-5346c5eb2787"/>
+  </children>
+</archimate:ArchimateDiagramModel>

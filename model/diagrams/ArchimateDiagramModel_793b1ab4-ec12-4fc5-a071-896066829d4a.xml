@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Palomuuri"
+    id="793b1ab4-ec12-4fc5-a071-896066829d4a">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="802cc40b-91ad-4346-b8f2-496fbc11f223">
+    <bounds
+        x="564"
+        y="216"
+        width="217"
+        height="145"/>
+    <archimateElement
+        xsi:type="archimate:Device"
+        href="Device_856be375-914e-4e83-9d44-8360a294ca3d.xml#856be375-914e-4e83-9d44-8360a294ca3d"/>
+  </children>
+</archimate:ArchimateDiagramModel>
