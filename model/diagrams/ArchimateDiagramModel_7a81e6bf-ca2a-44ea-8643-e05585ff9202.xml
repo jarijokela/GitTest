@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Branch_1 kuva"
+    id="7a81e6bf-ca2a-44ea-8643-e05585ff9202">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="61ab8112-19d8-482f-8ab0-5d0b0bad0fa1">
+    <bounds
+        x="286"
+        y="141"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_e0f48474-c0bc-4603-b5c0-07939c9552c2.xml#e0f48474-c0bc-4603-b5c0-07939c9552c2"/>
+  </children>
+</archimate:ArchimateDiagramModel>
