@@ -81,4 +81,28 @@
         xsi:type="archimate:Path"
         href="Path_d02f6226-685f-4a69-a1d8-cbaf367ff52e.xml#d02f6226-685f-4a69-a1d8-cbaf367ff52e"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="29ccc2a7-8a68-43db-82f5-17a496f63acd">
+    <bounds
+        x="471"
+        y="443"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_9cc2e452-41f8-41aa-a3b5-0d47b4861c50.xml#9cc2e452-41f8-41aa-a3b5-0d47b4861c50"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="141b82c8-83d6-4306-9897-461a15644d4f">
+    <bounds
+        x="533"
+        y="385"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Device"
+        href="Device_bb21fe98-8bac-442c-bbf5-662aa9844397.xml#bb21fe98-8bac-442c-bbf5-662aa9844397"/>
+  </children>
 </archimate:ArchimateDiagramModel>
