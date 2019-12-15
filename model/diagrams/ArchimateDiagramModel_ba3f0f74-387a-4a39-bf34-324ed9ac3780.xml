@@ -1,18 +1,18 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Uusi kuva2"
-    id="620fa294-b3e1-4a27-8aeb-a20332fadb6e">
+    name="Uusi kuva"
+    id="ba3f0f74-387a-4a39-bf34-324ed9ac3780">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="78c41ba6-5d33-45f2-add4-2c4379c27ec3">
+      id="7583558c-c33e-441d-8643-f5228b962970">
     <bounds
-        x="404"
-        y="231"
+        x="348"
+        y="188"
         width="120"
         height="55"/>
     <archimateElement
-        xsi:type="archimate:Resource"
-        href="Resource_e63cc27e-f48e-4df7-81cf-41c19ba8eca5.xml#e63cc27e-f48e-4df7-81cf-41c19ba8eca5"/>
+        xsi:type="archimate:Node"
+        href="Node_37932eba-53d3-4859-9b53-f17234a2e695.xml#37932eba-53d3-4859-9b53-f17234a2e695"/>
   </children>
 </archimate:ArchimateDiagramModel>
