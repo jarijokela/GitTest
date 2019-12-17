@@ -51,4 +51,16 @@
         xsi:type="archimate:Device"
         href="Device_6511b5de-4da3-4af2-bdf9-007977b8ead8.xml#6511b5de-4da3-4af2-bdf9-007977b8ead8"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="cdbf1d70-9749-4315-baf4-61e454aa54f5">
+    <bounds
+        x="695"
+        y="188"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Artifact"
+        href="Artifact_fac2e8ff-0011-4bb0-982c-d0f5e77ac839.xml#fac2e8ff-0011-4bb0-982c-d0f5e77ac839"/>
+  </children>
 </archimate:ArchimateDiagramModel>
