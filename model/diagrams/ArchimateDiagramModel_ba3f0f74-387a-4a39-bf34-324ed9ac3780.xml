@@ -51,16 +51,4 @@
         xsi:type="archimate:Device"
         href="Device_6511b5de-4da3-4af2-bdf9-007977b8ead8.xml#6511b5de-4da3-4af2-bdf9-007977b8ead8"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="b417a61a-1aca-4622-8096-746b7b0a0ead">
-    <bounds
-        x="718"
-        y="135"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:SystemSoftware"
-        href="SystemSoftware_2e2fb017-79d7-430e-8aa9-1dc7e3160ee9.xml#2e2fb017-79d7-430e-8aa9-1dc7e3160ee9"/>
-  </children>
 </archimate:ArchimateDiagramModel>
