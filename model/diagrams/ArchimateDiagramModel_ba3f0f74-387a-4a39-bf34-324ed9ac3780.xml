@@ -27,4 +27,16 @@
         xsi:type="archimate:Node"
         href="Node_1f55e575-e665-4f9d-b563-a2d024a8481c.xml#1f55e575-e665-4f9d-b563-a2d024a8481c"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="1375ffff-0d2e-458e-aebb-468970f79de5">
+    <bounds
+        x="626"
+        y="262"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Node"
+        href="Node_9f0ca466-0d6d-4e5f-a28c-42a4dd4a8b6c.xml#9f0ca466-0d6d-4e5f-a28c-42a4dd4a8b6c"/>
+  </children>
 </archimate:ArchimateDiagramModel>
